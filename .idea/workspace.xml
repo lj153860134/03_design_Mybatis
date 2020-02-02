@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45e9c73d-1aac-45fa-a784-06d7f9b9f3cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_mybatis/01_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_mybatis入门案例/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_mybatis入门案例/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_mybatis入门案例/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_mybatis入门案例/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_mybatis入门案例/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_mybatis入门案例/01_mybatis入门案例.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02_mybatis入门案例注解/02_mybatis入门案例注解.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_design_Mybatis.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../apache_maven/repository" />
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1WKfTJpVTQxfh26FOFcyUGipeAb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/lingjian_1/mybatis/utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lingjian_1.test.MybatisTest" />
+      <module name="03_design_Mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lingjian_1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e9c73d-1aac-45fa-a784-06d7f9b9f3cf" name="Default Changelist" comment="" />
+      <created>1578903213918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578903213918</updated>
+      <workItem from="1578903215860" duration="11752000" />
+      <workItem from="1578962981195" duration="4322000" />
+      <workItem from="1578968590887" duration="1187000" />
+      <workItem from="1578969791981" duration="245000" />
+      <workItem from="1578970089664" duration="1267000" />
+      <workItem from="1578982884264" duration="5312000" />
+      <workItem from="1579519558130" duration="8771000" />
+      <workItem from="1579571017868" duration="3523000" />
+      <workItem from="1580606252355" duration="240000" />
+      <workItem from="1580606529470" duration="230000" />
+      <workItem from="1580609319379" duration="3998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578966656667">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="270" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1578966656667" />
+    <state x="489" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1578920249698">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="489" y="57" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1578920249698" />
+    <state x="489" y="57" key="#com.intellij.ide.util.MemberChooser/0.23.1440.823@0.23.1440.823" timestamp="1578906789658" />
+    <state x="435" y="274" width="573" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580611490939">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="435" y="274" width="573" height="322" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.821@0.23.1440.821" timestamp="1580611490939" />
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom" timestamp="1580612767478">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1580612767478" />
+    <state width="1388" height="357" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578970751850" />
+    <state width="1388" height="229" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1578966436797" />
+    <state width="1388" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1578969778728" />
+    <state width="1388" height="217" key="GridCell.Tab.0.center" timestamp="1580612767477">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1580612767477" />
+    <state width="1388" height="357" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1578970751849" />
+    <state width="1388" height="229" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1578966436796" />
+    <state width="1388" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1578969778726" />
+    <state width="1388" height="217" key="GridCell.Tab.0.left" timestamp="1580612767477">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1580612767477" />
+    <state width="1388" height="357" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1578970751849" />
+    <state width="1388" height="229" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1578966436795" />
+    <state width="1388" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1578969778725" />
+    <state width="1388" height="217" key="GridCell.Tab.0.right" timestamp="1580612767478">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1580612767478" />
+    <state width="1388" height="357" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578970751850" />
+    <state width="1388" height="229" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1578966436796" />
+    <state width="1388" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1578969778727" />
+    <state x="98" y="23" key="SettingsEditor" timestamp="1579521080850">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1579521080850" />
+    <state x="14" y="23" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1578970747906" />
+    <state x="14" y="23" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1578970200784" />
+    <state x="29" y="23" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1578969866937" />
+    <state x="414" y="154" width="1026" height="670" key="find.popup" timestamp="1578924021303">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="414" y="154" width="1026" height="670" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1578924021303" />
+    <state x="0" y="70" key="new project wizard" timestamp="1578922902695">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="0" y="70" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1578922902695" />
+    <state x="301" y="23" key="search.everywhere.popup" timestamp="1578965002931">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="301" y="23" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1578904497415" />
+    <state x="301" y="23" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1578965002931" />
+  </component>
+</project>
